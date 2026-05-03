@@ -1,0 +1,15 @@
+node_modules/
+.env
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/.generated/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+android/app/google-services.json
+android/local.properties
+ios/Runner/GoogleService-Info.plist
+*.log
+.DS_Store

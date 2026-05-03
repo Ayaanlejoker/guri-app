@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.1",
+    "firebase-admin": "^13.8.0",
+    "pg": "^8.20.0"
+  },
+  "scripts": {
+    "start": "node notification_worker.js"
+  }
+}
